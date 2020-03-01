@@ -1,7 +1,8 @@
-# Problem Formulation
+# Problem
 There is a list of companies of both Venture Capital and Non Venture capital. Now, need to build a model based on a list so that to  predict if the company is a venture capital firm or not
 
 # Data Exploration
+I have combined the data in a single sheet then shuffle the data 
 For this prjoect we have only three columns ie company_name,url,category
 
 Target is "category"
